@@ -11,7 +11,7 @@
                                     <key>kind</key>
                                     <string>software-package</string>
                                     <key>url</key>
-                                    <string>http://192.168.1.45:8080/job/shining_demo_ios/113/artifact/build/build/demo_20181213.ipa</string>
+                                    <string>http://192.168.1.45:8000/ipa/ShiningGame.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
