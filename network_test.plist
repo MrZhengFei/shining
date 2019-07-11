@@ -17,13 +17,13 @@
                         <key>metadata</key>
                         <dict>
                             <key>bundle-identifier</key>
-                            <string>com.shining.game</string>
+                            <string>com.shining.network</string>
                             <key>bundle-version</key>
                             <string>1.0</string>
                             <key>kind</key>
                             <string>software</string>
                             <key>title</key>
-                            <string>ShiningDemo</string>
+                            <string>NetworkTest</string>
                         </dict>
                 </dict>
         </array>
