@@ -11,7 +11,7 @@
                                     <key>kind</key>
                                     <string>software-package</string>
                                     <key>url</key>
-                                    <string>http://10.0.106.20:8000/ipa/Test/ShiningGame.ipa</string>
+                                    <string>http://10.0.106.20:8000/ipa/est/ShiningGame.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
